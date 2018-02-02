@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://traildesvignes.net/</loc>
+    <lastmod>2018-01-31</lastmod>
+  </url>
+  <url oeid="813e33d8-692c-4f69-9c94-72e88bf4dc08" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/contact.htm</loc>
+    <lastmod>2018-01-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/contact.en.htm" />
+  </url>
+  <url oeid="813e33d8-692c-4f69-9c94-72e88bf4dc08" oelang="EN">
+    <loc>http://traildesvignes.net/contact.en.htm</loc>
+    <lastmod>2018-01-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/contact.en.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/index.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/index.en.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="EN">
+    <loc>http://traildesvignes.net/index.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/index.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/index.en.htm" />
+  </url>
+  <url oeid="c4153c38-6652-4d44-9142-95e47e3945eb" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/mentions-legales.htm</loc>
+    <lastmod>2017-09-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/mentions-legales.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/mentions-legales.en.htm" />
+  </url>
+  <url oeid="c4153c38-6652-4d44-9142-95e47e3945eb" oelang="EN">
+    <loc>http://traildesvignes.net/mentions-legales.en.htm</loc>
+    <lastmod>2017-09-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/mentions-legales.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/mentions-legales.en.htm" />
+  </url>
+  <url oeid="ea8f84a0-a2a2-4bbc-be17-c7ebafc4252a" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/page3.htm</loc>
+    <lastmod>2018-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/page3.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/page3.en.htm" />
+  </url>
+  <url oeid="ea8f84a0-a2a2-4bbc-be17-c7ebafc4252a" oelang="EN">
+    <loc>http://traildesvignes.net/page3.en.htm</loc>
+    <lastmod>2018-01-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/page3.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/page3.en.htm" />
+  </url>
+  <url oeid="d203e07e-7db5-4986-860d-7f13a1105b62" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Page4.htm</loc>
+    <lastmod>2017-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Page4.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Page4.en.htm" />
+  </url>
+  <url oeid="d203e07e-7db5-4986-860d-7f13a1105b62" oelang="EN">
+    <loc>http://traildesvignes.net/Page4.en.htm</loc>
+    <lastmod>2017-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Page4.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Page4.en.htm" />
+  </url>
+  <url oeid="38e2070e-d21c-489b-9be4-33afbd619400" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Resultats_old.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Resultats_old.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Resultats_old.en.htm" />
+  </url>
+  <url oeid="38e2070e-d21c-489b-9be4-33afbd619400" oelang="EN">
+    <loc>http://traildesvignes.net/Resultats_old.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Resultats_old.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Resultats_old.en.htm" />
+  </url>
+  <url oeid="73542d07-24e3-40fa-9c82-b0db29b21155" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Photos_old.htm</loc>
+    <lastmod>2018-01-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos_old.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos_old.en.htm" />
+  </url>
+  <url oeid="73542d07-24e3-40fa-9c82-b0db29b21155" oelang="EN">
+    <loc>http://traildesvignes.net/Photos_old.en.htm</loc>
+    <lastmod>2018-01-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos_old.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos_old.en.htm" />
+  </url>
+  <url oeid="a62a5c35-2f8e-49d4-8ce5-f25443f45169" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Inscription.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Inscription.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Inscription.en.htm" />
+  </url>
+  <url oeid="a62a5c35-2f8e-49d4-8ce5-f25443f45169" oelang="EN">
+    <loc>http://traildesvignes.net/Inscription.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Inscription.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Inscription.en.htm" />
+  </url>
+  <url oeid="8bfaed0c-848b-4ed4-a03c-4245e660a71b" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Resultats.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Resultats.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Resultats.en.htm" />
+  </url>
+  <url oeid="8bfaed0c-848b-4ed4-a03c-4245e660a71b" oelang="EN">
+    <loc>http://traildesvignes.net/Resultats.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Resultats.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Resultats.en.htm" />
+  </url>
+  <url oeid="a71b0058-4852-4211-8ef4-02b94d9b5196" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Photos.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos.en.htm" />
+  </url>
+  <url oeid="a71b0058-4852-4211-8ef4-02b94d9b5196" oelang="EN">
+    <loc>http://traildesvignes.net/Photos.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos.en.htm" />
+  </url>
+  <url oeid="62ab2364-3843-4d4a-899a-bc3dff231098" oelang="DEFAULT">
+    <loc>http://traildesvignes.net/Liens.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Liens.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Liens.en.htm" />
+  </url>
+  <url oeid="62ab2364-3843-4d4a-899a-bc3dff231098" oelang="EN">
+    <loc>http://traildesvignes.net/Liens.en.htm</loc>
+    <lastmod>2018-01-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Liens.htm" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Liens.en.htm" />
+  </url>
+</urlset>

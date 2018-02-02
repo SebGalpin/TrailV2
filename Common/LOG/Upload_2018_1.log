@@ -1,0 +1,182 @@
+1/26/2018 4:07:24 PM | Debut Mise en ligne différentielle (Site):
+1/26/2018 4:07:31 PM | Listing terminé :
+1/26/2018 4:07:31 PM | 
+
+1/26/2018 4:07:31 PM | * Backup-- -- --Folder create
+1/26/2018 4:07:31 PM | * Data-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Client-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Client/Common-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/Plugins-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Css-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Css/v01-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Css/v02-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Image-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Server-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Server/class-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/DBTools-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Server/language-- -- --Folder create
+1/26/2018 4:07:31 PM | * WEFiles/Image/WEImage-- -- --Folder create
+1/26/2018 4:07:31 PM | * Templates-- -- --Folder create
+1/26/2018 4:07:31 PM | * Files-- -- --Folder create
+1/26/2018 4:07:31 PM | * Files/Image-- -- --Folder create
+1/26/2018 4:07:31 PM | * Backup/.htaccess-- -- --33
+1/26/2018 4:07:31 PM | * Data/.htaccess-- -- --13
+1/26/2018 4:07:31 PM | * WEFiles/Client/Common/oe.min.js-- -- --16317
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/Plugins/jquery.form.js-- -- --11659
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/Plugins/jquery.ui.core.js-- -- --19590
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/Plugins/jquery.ui.effects.js-- -- --25199
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/1.10.2.js-- -- --93107
+1/26/2018 4:07:31 PM | * WEFiles/Client/jQuery/migrate.js-- -- --7202
+1/26/2018 4:07:31 PM | * WEFiles/Client/OEDB.js-- -- --1856
+1/26/2018 4:07:31 PM | * WEFiles/Client/OEDBClasses.js-- -- --2280
+1/26/2018 4:07:31 PM | * WEFiles/Client/opentip-jquery.min.js-- -- --44974
+1/26/2018 4:07:31 PM | * WEFiles/Css/v01/openElement.css-- -- --5851
+1/26/2018 4:07:31 PM | * WEFiles/Css/v02/openElement.css-- -- --6102
+1/26/2018 4:07:31 PM | * WEFiles/Css/v02/openElement.int.css-- -- --6177
+1/26/2018 4:07:31 PM | * WEFiles/Css/ie7.css-- -- --833
+1/26/2018 4:07:31 PM | * WEFiles/Css/opentip.css-- -- --9211
+1/26/2018 4:07:31 PM | * WEFiles/Image/Code.png-- -- --831
+1/26/2018 4:07:31 PM | * WEFiles/Image/delete.png-- -- --1465
+1/26/2018 4:07:31 PM | * WEFiles/Image/empty.png-- -- --184
+1/26/2018 4:07:31 PM | * WEFiles/Image/information2.png-- -- --3246
+1/26/2018 4:07:31 PM | * WEFiles/Image/loading.gif-- -- --1924
+1/26/2018 4:07:31 PM | * WEFiles/Image/Loading2.gif-- -- --4941
+1/26/2018 4:07:31 PM | * WEFiles/Image/mask.png-- -- --213
+1/26/2018 4:07:31 PM | * WEFiles/Image/ModalBackgound.png-- -- --27145
+1/26/2018 4:07:31 PM | * WEFiles/Image/ModalPopupBlock.png-- -- --268
+1/26/2018 4:07:31 PM | * WEFiles/Image/ServerError.png-- -- --2602
+1/26/2018 4:07:31 PM | * WEFiles/Image/warning.png-- -- --816
+1/26/2018 4:07:31 PM | * WEFiles/Image/WEW3C.png-- -- --1882
+1/26/2018 4:07:31 PM | * WEFiles/Server/class/class-phpmailer.php-- -- --65668
+1/26/2018 4:07:31 PM | * WEFiles/Server/class/class-smtp.php-- -- --32456
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/DBTools/OEDataContainers.php-- -- --57685
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/DBTools/OEDBRequest.php-- -- --36412
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/DBTools/OEDynUtils.php-- -- --15107
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/.htaccess-- -- --13
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/OEDB.php-- -- --28741
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/OEDBClasses.php-- -- --84483
+1/26/2018 4:07:31 PM | * WEFiles/Server/DB/sqllogin.php-- -- --1479
+1/26/2018 4:07:31 PM | * WEFiles/Server/language/phpmailer.lang-en.php-- -- --1188
+1/26/2018 4:07:31 PM | * WEFiles/Server/language/phpmailer.lang-fr.php-- -- --1297
+1/26/2018 4:07:31 PM | * WEFiles/Server/openElement.php-- -- --13870
+1/26/2018 4:07:31 PM | * WEFiles/Server/VarText.php-- -- --4496
+1/26/2018 4:07:31 PM | * Files/Other/Autorisation_Parentale_Trail_des_Vignes_2017.pdf-- -- --45093
+1/26/2018 4:07:31 PM | * Files/Other/Certificat_Medical.pdf-- -- --605404
+1/26/2018 4:07:31 PM | * Files/Other/Certificat_Medical_Trail_des_Vignes.pdf-- -- --53722
+1/26/2018 4:07:31 PM | * Files/Other/Reglement des courses 2017_EN.pdf-- -- --58785
+1/26/2018 4:07:31 PM | * .htaccess-- -- --0
+1/26/2018 4:07:31 PM | * contact(var).js-- -- --2153
+1/26/2018 4:07:31 PM | * contact(var).php-- -- --779
+1/26/2018 4:07:31 PM | * contact.css-- -- --2471
+1/26/2018 4:07:31 PM | * WEFiles/Image/WEImage/Logo-WElogo.png-- -- --10756
+1/26/2018 4:07:31 PM | * contact.en.htm-- -- --24434
+1/26/2018 4:07:31 PM | * contact.htm-- -- --24425
+1/26/2018 4:07:31 PM | * index(var).js-- -- --1583
+1/26/2018 4:07:31 PM | * index.css-- -- --3510
+1/26/2018 4:07:31 PM | * index.en.htm-- -- --26709
+1/26/2018 4:07:31 PM | * index.htm-- -- --26724
+1/26/2018 4:07:31 PM | * Inscription.css-- -- --3249
+1/26/2018 4:07:31 PM | * Files/Image/1644.jpg-- -- --40246
+1/26/2018 4:07:31 PM | * Files/Image/411.jpg-- -- --15324
+1/26/2018 4:07:31 PM | * Inscription.en.htm-- -- --25061
+1/26/2018 4:07:31 PM | * Inscription.htm-- -- --25152
+1/26/2018 4:07:31 PM | * mentions-legales.css-- -- --2448
+1/26/2018 4:07:31 PM | * mentions-legales.en.htm-- -- --21162
+1/26/2018 4:07:31 PM | * mentions-legales.htm-- -- --21153
+1/26/2018 4:07:31 PM | * page3.css-- -- --3108
+1/26/2018 4:07:31 PM | * page3.en.htm-- -- --24254
+1/26/2018 4:07:31 PM | * page3.htm-- -- --24245
+1/26/2018 4:07:31 PM | * Page4.css-- -- --748
+1/26/2018 4:07:31 PM | * Page4.en.htm-- -- --24828
+1/26/2018 4:07:31 PM | * Page4.htm-- -- --24819
+1/26/2018 4:07:31 PM | * Photos.css-- -- --1862
+1/26/2018 4:07:31 PM | * Photos.en.htm-- -- --21262
+1/26/2018 4:07:31 PM | * Photos.htm-- -- --21275
+1/26/2018 4:07:31 PM | * Resultats.css-- -- --2316
+1/26/2018 4:07:31 PM | * Resultats.en.htm-- -- --25994
+1/26/2018 4:07:31 PM | * Resultats.htm-- -- --25963
+1/26/2018 4:07:31 PM | * Templates/design.css-- -- --7329
+1/26/2018 4:07:31 PM | * sitemap.xml-- -- --6078
+1/26/2018 4:07:31 PM | * robots.txt-- -- --45
+1/26/2018 4:07:32 PM | 
+1/26/2018 4:07:32 PM | 
+--------------------------------Phase 1 Terminé--------------------------------
+1/26/2018 4:07:32 PM | 
+
+1/26/2018 4:09:00 PM | Debut Mise en ligne différentielle (Site):
+1/26/2018 4:09:00 PM | Listing terminé :
+1/26/2018 4:09:00 PM | 
+
+1/26/2018 4:09:00 PM | * Backup-- -- --Folder create
+1/26/2018 4:09:00 PM | * Templates-- -- --Folder create
+1/26/2018 4:09:00 PM | * Backup/.htaccess-- -- --33
+1/26/2018 4:09:00 PM | * .htaccess-- -- --0
+1/26/2018 4:09:00 PM | * sitemap.xml-- -- --6078
+1/26/2018 4:09:00 PM | * robots.txt-- -- --45
+1/26/2018 4:09:01 PM | 
+1/26/2018 4:09:01 PM | 
+--------------------------------Phase 1 Terminé--------------------------------
+1/26/2018 4:09:01 PM | 
+
+1/31/2018 12:10:02 PM | Debut Mise en ligne différentielle (Site):
+1/31/2018 12:10:04 PM | Listing terminé :
+1/31/2018 12:10:04 PM | 
+
+1/31/2018 12:10:04 PM | * Backup-- -- --Folder create
+1/31/2018 12:10:04 PM | * Templates-- -- --Folder create
+1/31/2018 12:10:04 PM | * Files-- -- --Folder create
+1/31/2018 12:10:04 PM | * Files/Image-- -- --Folder create
+1/31/2018 12:10:04 PM | * Backup/.htaccess-- -- --33
+1/31/2018 12:10:04 PM | * .htaccess-- -- --0
+1/31/2018 12:10:04 PM | * contact(var).js-- -- --2153
+1/31/2018 12:10:04 PM | * contact(var).php-- -- --779
+1/31/2018 12:10:04 PM | * contact.css-- -- --2471
+1/31/2018 12:10:04 PM | * contact.en.htm-- -- --24855
+1/31/2018 12:10:04 PM | * contact.htm-- -- --24840
+1/31/2018 12:10:04 PM | * index(var).js-- -- --1583
+1/31/2018 12:10:04 PM | * index.css-- -- --3510
+1/31/2018 12:10:04 PM | * index.en.htm-- -- --27138
+1/31/2018 12:10:04 PM | * index.htm-- -- --27147
+1/31/2018 12:10:04 PM | * Inscription.css-- -- --3249
+1/31/2018 12:10:04 PM | * Inscription.en.htm-- -- --25711
+1/31/2018 12:10:04 PM | * Inscription.htm-- -- --25811
+1/31/2018 12:10:04 PM | * Liens.css-- -- --3256
+1/31/2018 12:10:04 PM | * Files/Image/408.jpg-- -- --16519
+1/31/2018 12:10:04 PM | * Files/Image/407.jpg-- -- --9846
+1/31/2018 12:10:04 PM | * Files/Image/763.jpg-- -- --35470
+1/31/2018 12:10:04 PM | * Liens.en.htm-- -- --25100
+1/31/2018 12:10:04 PM | * Liens.htm-- -- --25153
+1/31/2018 12:10:04 PM | * mentions-legales.css-- -- --2448
+1/31/2018 12:10:04 PM | * mentions-legales.en.htm-- -- --21583
+1/31/2018 12:10:04 PM | * mentions-legales.htm-- -- --21568
+1/31/2018 12:10:04 PM | * page3.css-- -- --3108
+1/31/2018 12:10:04 PM | * page3.en.htm-- -- --24675
+1/31/2018 12:10:04 PM | * page3.htm-- -- --24660
+1/31/2018 12:10:04 PM | * Page4.css-- -- --748
+1/31/2018 12:10:04 PM | * Page4.en.htm-- -- --25249
+1/31/2018 12:10:04 PM | * Page4.htm-- -- --25234
+1/31/2018 12:10:04 PM | * Photos.css-- -- --3130
+1/31/2018 12:10:04 PM | * Photos.en.htm-- -- --26102
+1/31/2018 12:10:04 PM | * Photos.htm-- -- --26099
+1/31/2018 12:10:04 PM | * Photos_old.css-- -- --1862
+1/31/2018 12:10:04 PM | * Photos_old.en.htm-- -- --21657
+1/31/2018 12:10:04 PM | * Photos_old.htm-- -- --21664
+1/31/2018 12:10:04 PM | * Resultats(var).js-- -- --1583
+1/31/2018 12:10:04 PM | * Resultats.css-- -- --3527
+1/31/2018 12:10:04 PM | * Resultats.en.htm-- -- --28864
+1/31/2018 12:10:04 PM | * Resultats.htm-- -- --28783
+1/31/2018 12:10:04 PM | * Resultats_old(var).js-- -- --1583
+1/31/2018 12:10:04 PM | * Resultats_old.css-- -- --2487
+1/31/2018 12:10:04 PM | * Resultats_old.en.htm-- -- --28394
+1/31/2018 12:10:04 PM | * Resultats_old.htm-- -- --28357
+1/31/2018 12:10:04 PM | * Templates/design.css-- -- --7877
+1/31/2018 12:10:04 PM | * sitemap.xml-- -- --8286
+1/31/2018 12:10:04 PM | * robots.txt-- -- --45
+1/31/2018 12:10:04 PM | 
+1/31/2018 12:10:04 PM | 
+--------------------------------Phase 1 Terminé--------------------------------
+1/31/2018 12:10:04 PM | 
+

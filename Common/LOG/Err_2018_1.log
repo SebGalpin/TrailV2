@@ -1,0 +1,59 @@
+1/26/2018 4:07:10 PM | 
+1/26/2018 4:07:10 PM | 
+Message : Le serveur distant a retourné une erreur : (404) Introuvable.
+1/26/2018 4:07:10 PM | 
+LastTrace : openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer)
+1/26/2018 4:07:10 PM | 
+Params : 
+1/26/2018 4:07:10 PM | 
+MethodeName : Byte[] DownloadDataInternal(System.Uri, System.Net.WebRequest ByRef)
+1/26/2018 4:07:10 PM | 
+Stamp : 1/26/2018 4:07:09 PM
+1/26/2018 4:07:10 PM | 
+OSFullName : Microsoft Windows 10 Professionnel
+1/26/2018 4:07:10 PM | 
+AvailablePhysicalMemory : 4.86 Go 
+1/26/2018 4:07:10 PM | 
+TotalPhysicalMemory : 15.92 Go 
+1/26/2018 4:07:10 PM | 
+AvailableVirtualMemory : 3 Go 
+1/26/2018 4:07:10 PM | 
+TotalVirtualMemory : 4 Go 
+1/26/2018 4:07:10 PM | 
+WorkingSet : 349.35 Mo 
+1/26/2018 4:07:10 PM | 
+PagedMemorySize : 358.34 Mo 
+1/26/2018 4:07:10 PM | 
+TotalMemory : 47.51 Mo 
+1/26/2018 4:07:10 PM | 
+
+1/26/2018 4:07:10 PM | 
+ExTrace : 
+1/26/2018 4:07:10 PM | 
+à openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:ligne 101
+1/26/2018 4:07:10 PM | 
+
+1/26/2018 4:07:10 PM | 
+OETrace : 
+1/26/2018 4:07:10 PM | 
+à openElement.Tools.WebElem.DownloadFile(String url, String& data, Dictionary`2 resultResponseHeaders, Version httpVer) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Tools\ToolsWebElem.vb:ligne 117
+1/26/2018 4:07:10 PM | 
+à openElement.WebSite.Connection.FTPConnection.GetHostGetParamResult(String url, String& hostGetParamResult, Dictionary`2 headers) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:ligne 847
+1/26/2018 4:07:10 PM | 
+à openElement.WebSite.Connection.FTPConnection.GetParam() dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\Connexion\FTPConnection.vb:ligne 794
+1/26/2018 4:07:10 PM | 
+à openElement.Controls.CtlIziConFTP.BBIFTPTest_ItemClick(Object sender, ItemClickEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Control\CtlIziConFTP.vb:ligne 323
+1/26/2018 4:07:10 PM | 
+à openElement.Forms.FrmAdmin.ShowDialog(FrmDXAdministrationTabs tabactif) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\Administrateur\FrmAdmin.vb:ligne 99
+1/26/2018 4:07:10 PM | 
+à openElement.Forms.FrmUpload.ExistOnlineConnection() dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Project\FrmUpload.vb:ligne 317
+1/26/2018 4:07:10 PM | 
+à openElement.WebSite.UIAction.Upload.Upload(Boolean fromCtlSiteMap, String elementToUploadPath) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\WebSite\UIAction\Upload.vb:ligne 92
+1/26/2018 4:07:10 PM | 
+à openElement.Forms.RibbonCore.RPProject.RPGPublication.BBIProjectPublicationFtp_ItemClick(Object sender, ItemClickEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Project\RPGPublication.vb:ligne 38
+1/26/2018 4:07:10 PM | 
+à openElement.My.MyApplication.Main(String[] Args) dans :ligne 82
+1/26/2018 4:07:10 PM | 
+
+1/26/2018 4:07:10 PM | 
+------------------
