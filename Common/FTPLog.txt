@@ -1,16 +1,16 @@
 Ouverture de la connexion, veuillez patienter ...
 Data delete : C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Backup\.htaccess
 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
-220-You are user number 90 of 4000 allowed.
-220-Local time is now 07:55. Server port: 21.
+220-You are user number 116 of 4000 allowed.
+220-Local time is now 14:11. Server port: 21.
 220-This is a private system - No anonymous login
 220 You will be disconnected after 15 minutes of inactivity.
 USER ********
 331 User webmaster@traildesvignes.net OK. Password required
 PASS ********
 230-OK. Current restricted directory is /
-230-2026 files used (1%) - authorized: 150000 files
-230 111500 Kbytes used (0%) - authorized: 157286400 Kb
+230-2151 files used (1%) - authorized: 150000 files
+230 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD www/preprodtrail
 250 OK. Current directory is /www/preprodtrail
 PWD
@@ -18,459 +18,109 @@ PWD
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,87,75)
+227 Entering Passive Mode (62,210,16,42,96,144)
 STOR .htaccess
 150 Accepted data connection
-226-2027 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
+226-2152 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.089 seconds (measured here), 4.82 Kbytes per second
+226 0.080 seconds (measured here), 5.37 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,105,159)
-STOR contact(var).js
-150 Accepted data connection
-226-2028 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.052 seconds (measured here), 40.62 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,91,245)
-STOR contact(var).php
-150 Accepted data connection
-226-2029 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.034 seconds (measured here), 22.55 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,86,226)
-STOR contact.css
-150 Accepted data connection
-226-2030 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.031 seconds (measured here), 76.89 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,104,162)
-STOR contact.en.htm
-150 Accepted data connection
-226-2031 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.058 seconds (measured here), 418.26 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,99,235)
-STOR contact.htm
-150 Accepted data connection
-226-2032 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.041 seconds (measured here), 0.58 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,108,12)
-STOR index(var).js
-150 Accepted data connection
-226-2033 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.036 seconds (measured here), 43.04 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,83,16)
-STOR index.css
-150 Accepted data connection
-226-2034 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.017 seconds (measured here), 256.59 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,89,130)
-STOR index.en.htm
-150 Accepted data connection
-226-2035 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.026 seconds (measured here), 1.07 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,107,146)
-STOR index.htm
-150 Accepted data connection
-226-2036 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.031 seconds (measured here), 0.90 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,96,163)
-STOR Inscription.css
-150 Accepted data connection
-226-2037 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.020 seconds (measured here), 156.52 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,106,100)
-STOR Inscription.en.htm
-150 Accepted data connection
-226-2038 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.041 seconds (measured here), 0.66 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,92,208)
-STOR Inscription.htm
-150 Accepted data connection
-226-2039 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.040 seconds (measured here), 0.67 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,91,218)
-STOR Liens.css
-150 Accepted data connection
-226-2040 files used (1%) - authorized: 150000 files
-226-111500 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.031 seconds (measured here), 103.32 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,109,150)
-STOR Liens.en.htm
-150 Accepted data connection
-226-2041 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.044 seconds (measured here), 0.54 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,113,58)
-STOR Liens.htm
-150 Accepted data connection
-226-2042 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.034 seconds (measured here), 0.71 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,104,209)
+227 Entering Passive Mode (62,210,16,42,94,94)
 STOR mentions-legales.css
 150 Accepted data connection
-226-2043 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
+226-2153 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.042 seconds (measured here), 56.68 Kbytes per second
+226 0.040 seconds (measured here), 61.95 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,98,92)
+227 Entering Passive Mode (62,210,16,42,84,175)
 STOR mentions-legales.en.htm
 150 Accepted data connection
-226-2044 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
+226-2154 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.022 seconds (measured here), 0.94 Mbytes per second
+226 0.042 seconds (measured here), 506.99 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,105,154)
+227 Entering Passive Mode (62,210,16,42,112,69)
 STOR mentions-legales.htm
 150 Accepted data connection
-226-2045 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
+226-2155 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.036 seconds (measured here), 0.57 Mbytes per second
+226 0.022 seconds (measured here), 0.96 Mbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,87,46)
-STOR page3.css
-150 Accepted data connection
-226-2046 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.045 seconds (measured here), 67.69 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,107,143)
-STOR page3.en.htm
-150 Accepted data connection
-226-2047 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.024 seconds (measured here), 0.98 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,99,24)
-STOR page3.htm
-150 Accepted data connection
-226-2048 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.021 seconds (measured here), 1.11 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,105,122)
-STOR Page4.css
-150 Accepted data connection
-226-2049 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.030 seconds (measured here), 24.38 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,101,29)
-STOR Page4.en.htm
-150 Accepted data connection
-226-2050 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.028 seconds (measured here), 0.88 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,111,101)
-STOR Page4.htm
-150 Accepted data connection
-226-2051 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.043 seconds (measured here), 0.56 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,90,103)
-STOR Photos.css
-150 Accepted data connection
-226-2052 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.049 seconds (measured here), 62.63 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,112,227)
-STOR Photos.en.htm
-150 Accepted data connection
-226-2053 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.027 seconds (measured here), 0.92 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,88,214)
-STOR Photos.htm
-150 Accepted data connection
-226-2054 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.040 seconds (measured here), 0.62 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,104,134)
-STOR Photos_old.css
-150 Accepted data connection
-226-2055 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.017 seconds (measured here), 107.40 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,93,60)
-STOR Photos_old.en.htm
-150 Accepted data connection
-226-2056 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.031 seconds (measured here), 0.66 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,86,130)
-STOR Photos_old.htm
-150 Accepted data connection
-226-2057 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.039 seconds (measured here), 0.53 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,103,246)
-STOR Resultats(var).js
-150 Accepted data connection
-226-2058 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 1.828 seconds (measured here), 0.85 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,107,118)
-STOR Resultats.css
-150 Accepted data connection
-226-2059 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.872 seconds (measured here), 3.95 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,82,55)
-STOR Resultats.en.htm
-150 Accepted data connection
-226-2060 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 1.213 seconds (measured here), 23.38 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,105,115)
-STOR Resultats.htm
-150 Accepted data connection
-226-2061 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.416 seconds (measured here), 68.02 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,85,151)
-STOR Resultats_old(var).js
-150 Accepted data connection
-226-2062 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.017 seconds (measured here), 90.73 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,88,22)
-STOR Resultats_old.css
-150 Accepted data connection
-226-2063 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.030 seconds (measured here), 82.26 Kbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,109,32)
-STOR Resultats_old.en.htm
-150 Accepted data connection
-226-2064 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.021 seconds (measured here), 1.30 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,97,192)
-STOR Resultats_old.htm
-150 Accepted data connection
-226-2065 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.021 seconds (measured here), 1.30 Mbytes per second
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,102,148)
+227 Entering Passive Mode (62,210,16,42,87,186)
 STOR robots.txt
 150 Accepted data connection
-226-2066 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
+226-2156 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.016 seconds (measured here), 2.79 Kbytes per second
+226 0.014 seconds (measured here), 3.09 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,107,212)
+227 Entering Passive Mode (62,210,16,42,90,209)
 STOR sitemap.xml
 150 Accepted data connection
-226-2067 files used (1%) - authorized: 150000 files
-226-111499 Kbytes used (0%) - authorized: 157286400 Kb
+226-2157 files used (1%) - authorized: 150000 files
+226-118497 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.031 seconds (measured here), 259.60 Kbytes per second
+226 0.033 seconds (measured here), 248.35 Kbytes per second
 PWD
 257 "/www/preprodtrail" is your current location
 MKD .git
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD .git
 250 OK. Current directory is /www/preprodtrail/.git
 PWD
 257 "/www/preprodtrail/.git" is your current location
 MKD hooks
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD hooks
 250 OK. Current directory is /www/preprodtrail/.git/hooks
 CWD /www/preprodtrail/.git
 250 OK. Current directory is /www/preprodtrail/.git
 MKD info
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD info
 250 OK. Current directory is /www/preprodtrail/.git/info
 CWD /www/preprodtrail/.git
 250 OK. Current directory is /www/preprodtrail/.git
 MKD lfs
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD lfs
 250 OK. Current directory is /www/preprodtrail/.git/lfs
 PWD
 257 "/www/preprodtrail/.git/lfs" is your current location
 MKD objects
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD objects
 250 OK. Current directory is /www/preprodtrail/.git/lfs/objects
 CWD /www/preprodtrail/.git/lfs
 250 OK. Current directory is /www/preprodtrail/.git/lfs
 MKD tmp
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD tmp
 250 OK. Current directory is /www/preprodtrail/.git/lfs/tmp
 CWD /www/preprodtrail/.git/lfs
@@ -479,40 +129,40 @@ CWD /www/preprodtrail/.git
 250 OK. Current directory is /www/preprodtrail/.git
 MKD logs
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD logs
 250 OK. Current directory is /www/preprodtrail/.git/logs
 PWD
 257 "/www/preprodtrail/.git/logs" is your current location
 MKD refs
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD refs
 250 OK. Current directory is /www/preprodtrail/.git/logs/refs
 PWD
 257 "/www/preprodtrail/.git/logs/refs" is your current location
 MKD heads
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD heads
 250 OK. Current directory is /www/preprodtrail/.git/logs/refs/heads
 CWD /www/preprodtrail/.git/logs/refs
 250 OK. Current directory is /www/preprodtrail/.git/logs/refs
 MKD remotes
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD remotes
 250 OK. Current directory is /www/preprodtrail/.git/logs/refs/remotes
 PWD
 257 "/www/preprodtrail/.git/logs/refs/remotes" is your current location
 MKD origin
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD origin
 250 OK. Current directory is /www/preprodtrail/.git/logs/refs/remotes/origin
 CWD /www/preprodtrail/.git/logs/refs/remotes
@@ -525,1568 +175,1632 @@ CWD /www/preprodtrail/.git
 250 OK. Current directory is /www/preprodtrail/.git
 MKD objects
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 PWD
 257 "/www/preprodtrail/.git/objects" is your current location
 MKD 00
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 00
 250 OK. Current directory is /www/preprodtrail/.git/objects/00
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 01
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 01
 250 OK. Current directory is /www/preprodtrail/.git/objects/01
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 02
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 02
 250 OK. Current directory is /www/preprodtrail/.git/objects/02
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 03
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 03
 250 OK. Current directory is /www/preprodtrail/.git/objects/03
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 04
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 04
 250 OK. Current directory is /www/preprodtrail/.git/objects/04
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 05
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 05
 250 OK. Current directory is /www/preprodtrail/.git/objects/05
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 06
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 06
 250 OK. Current directory is /www/preprodtrail/.git/objects/06
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 07
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 07
 250 OK. Current directory is /www/preprodtrail/.git/objects/07
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 08
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 08
 250 OK. Current directory is /www/preprodtrail/.git/objects/08
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 09
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 09
 250 OK. Current directory is /www/preprodtrail/.git/objects/09
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0a
 250 OK. Current directory is /www/preprodtrail/.git/objects/0a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0b
 250 OK. Current directory is /www/preprodtrail/.git/objects/0b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0c
 250 OK. Current directory is /www/preprodtrail/.git/objects/0c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0d
 250 OK. Current directory is /www/preprodtrail/.git/objects/0d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0e
 250 OK. Current directory is /www/preprodtrail/.git/objects/0e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 0f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0f
 250 OK. Current directory is /www/preprodtrail/.git/objects/0f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 10
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 10
+250 OK. Current directory is /www/preprodtrail/.git/objects/10
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 11
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 11
 250 OK. Current directory is /www/preprodtrail/.git/objects/11
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 12
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 12
+250 OK. Current directory is /www/preprodtrail/.git/objects/12
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 13
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 13
 250 OK. Current directory is /www/preprodtrail/.git/objects/13
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 14
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 14
 250 OK. Current directory is /www/preprodtrail/.git/objects/14
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 15
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 15
 250 OK. Current directory is /www/preprodtrail/.git/objects/15
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 16
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 16
 250 OK. Current directory is /www/preprodtrail/.git/objects/16
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 17
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 17
 250 OK. Current directory is /www/preprodtrail/.git/objects/17
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 18
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 18
 250 OK. Current directory is /www/preprodtrail/.git/objects/18
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 19
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 19
 250 OK. Current directory is /www/preprodtrail/.git/objects/19
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 1c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1c
 250 OK. Current directory is /www/preprodtrail/.git/objects/1c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 1d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1d
 250 OK. Current directory is /www/preprodtrail/.git/objects/1d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 1e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1e
 250 OK. Current directory is /www/preprodtrail/.git/objects/1e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 20
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 20
 250 OK. Current directory is /www/preprodtrail/.git/objects/20
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 22
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 22
 250 OK. Current directory is /www/preprodtrail/.git/objects/22
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 23
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 23
 250 OK. Current directory is /www/preprodtrail/.git/objects/23
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 25
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 25
 250 OK. Current directory is /www/preprodtrail/.git/objects/25
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 26
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 26
 250 OK. Current directory is /www/preprodtrail/.git/objects/26
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 27
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 27
 250 OK. Current directory is /www/preprodtrail/.git/objects/27
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 28
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 28
 250 OK. Current directory is /www/preprodtrail/.git/objects/28
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 29
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 29
 250 OK. Current directory is /www/preprodtrail/.git/objects/29
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 2a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2a
 250 OK. Current directory is /www/preprodtrail/.git/objects/2a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 2b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2b
 250 OK. Current directory is /www/preprodtrail/.git/objects/2b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 2c
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 2c
+250 OK. Current directory is /www/preprodtrail/.git/objects/2c
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 2e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2e
 250 OK. Current directory is /www/preprodtrail/.git/objects/2e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 2f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2f
 250 OK. Current directory is /www/preprodtrail/.git/objects/2f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 30
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 30
 250 OK. Current directory is /www/preprodtrail/.git/objects/30
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 31
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 31
 250 OK. Current directory is /www/preprodtrail/.git/objects/31
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 34
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 34
 250 OK. Current directory is /www/preprodtrail/.git/objects/34
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 35
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 35
 250 OK. Current directory is /www/preprodtrail/.git/objects/35
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 39
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 39
 250 OK. Current directory is /www/preprodtrail/.git/objects/39
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 3a
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 3a
+250 OK. Current directory is /www/preprodtrail/.git/objects/3a
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 3b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3b
 250 OK. Current directory is /www/preprodtrail/.git/objects/3b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 3c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3c
 250 OK. Current directory is /www/preprodtrail/.git/objects/3c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 3e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3e
 250 OK. Current directory is /www/preprodtrail/.git/objects/3e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 3f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3f
 250 OK. Current directory is /www/preprodtrail/.git/objects/3f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 40
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 40
 250 OK. Current directory is /www/preprodtrail/.git/objects/40
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 42
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 42
 250 OK. Current directory is /www/preprodtrail/.git/objects/42
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 43
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 43
 250 OK. Current directory is /www/preprodtrail/.git/objects/43
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 44
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 44
 250 OK. Current directory is /www/preprodtrail/.git/objects/44
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 45
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 45
 250 OK. Current directory is /www/preprodtrail/.git/objects/45
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 46
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 46
 250 OK. Current directory is /www/preprodtrail/.git/objects/46
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 48
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 48
 250 OK. Current directory is /www/preprodtrail/.git/objects/48
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 49
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 49
 250 OK. Current directory is /www/preprodtrail/.git/objects/49
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4a
 250 OK. Current directory is /www/preprodtrail/.git/objects/4a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4b
 250 OK. Current directory is /www/preprodtrail/.git/objects/4b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4c
 250 OK. Current directory is /www/preprodtrail/.git/objects/4c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4d
 250 OK. Current directory is /www/preprodtrail/.git/objects/4d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4e
 250 OK. Current directory is /www/preprodtrail/.git/objects/4e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 4f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4f
 250 OK. Current directory is /www/preprodtrail/.git/objects/4f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 50
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 50
 250 OK. Current directory is /www/preprodtrail/.git/objects/50
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 53
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 53
 250 OK. Current directory is /www/preprodtrail/.git/objects/53
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 54
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 54
 250 OK. Current directory is /www/preprodtrail/.git/objects/54
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 55
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 55
 250 OK. Current directory is /www/preprodtrail/.git/objects/55
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 56
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 56
 250 OK. Current directory is /www/preprodtrail/.git/objects/56
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 59
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 59
 250 OK. Current directory is /www/preprodtrail/.git/objects/59
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 5b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5b
 250 OK. Current directory is /www/preprodtrail/.git/objects/5b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 5c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5c
 250 OK. Current directory is /www/preprodtrail/.git/objects/5c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 5d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5d
 250 OK. Current directory is /www/preprodtrail/.git/objects/5d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 5f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5f
 250 OK. Current directory is /www/preprodtrail/.git/objects/5f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 60
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 60
 250 OK. Current directory is /www/preprodtrail/.git/objects/60
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 61
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 61
 250 OK. Current directory is /www/preprodtrail/.git/objects/61
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 63
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 63
 250 OK. Current directory is /www/preprodtrail/.git/objects/63
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 64
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 64
 250 OK. Current directory is /www/preprodtrail/.git/objects/64
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 65
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 65
 250 OK. Current directory is /www/preprodtrail/.git/objects/65
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 66
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 66
 250 OK. Current directory is /www/preprodtrail/.git/objects/66
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 67
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 67
 250 OK. Current directory is /www/preprodtrail/.git/objects/67
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 69
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 69
+250 OK. Current directory is /www/preprodtrail/.git/objects/69
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 6a
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 6a
+250 OK. Current directory is /www/preprodtrail/.git/objects/6a
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 6c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6c
 250 OK. Current directory is /www/preprodtrail/.git/objects/6c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 6d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6d
 250 OK. Current directory is /www/preprodtrail/.git/objects/6d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 6e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6e
 250 OK. Current directory is /www/preprodtrail/.git/objects/6e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 6f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6f
 250 OK. Current directory is /www/preprodtrail/.git/objects/6f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 70
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 70
 250 OK. Current directory is /www/preprodtrail/.git/objects/70
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 72
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 72
 250 OK. Current directory is /www/preprodtrail/.git/objects/72
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 73
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 73
 250 OK. Current directory is /www/preprodtrail/.git/objects/73
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 74
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 74
 250 OK. Current directory is /www/preprodtrail/.git/objects/74
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 75
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 75
 250 OK. Current directory is /www/preprodtrail/.git/objects/75
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 76
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 76
 250 OK. Current directory is /www/preprodtrail/.git/objects/76
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 77
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 77
 250 OK. Current directory is /www/preprodtrail/.git/objects/77
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 78
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 78
 250 OK. Current directory is /www/preprodtrail/.git/objects/78
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 7a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7a
 250 OK. Current directory is /www/preprodtrail/.git/objects/7a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 7c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7c
 250 OK. Current directory is /www/preprodtrail/.git/objects/7c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 7d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7d
 250 OK. Current directory is /www/preprodtrail/.git/objects/7d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 7e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7e
 250 OK. Current directory is /www/preprodtrail/.git/objects/7e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 7f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7f
 250 OK. Current directory is /www/preprodtrail/.git/objects/7f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 80
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 80
 250 OK. Current directory is /www/preprodtrail/.git/objects/80
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 81
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 81
 250 OK. Current directory is /www/preprodtrail/.git/objects/81
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 82
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 82
 250 OK. Current directory is /www/preprodtrail/.git/objects/82
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 84
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 84
 250 OK. Current directory is /www/preprodtrail/.git/objects/84
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 85
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 85
 250 OK. Current directory is /www/preprodtrail/.git/objects/85
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 86
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 86
 250 OK. Current directory is /www/preprodtrail/.git/objects/86
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 88
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 88
 250 OK. Current directory is /www/preprodtrail/.git/objects/88
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 89
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 89
 250 OK. Current directory is /www/preprodtrail/.git/objects/89
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 8a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8a
 250 OK. Current directory is /www/preprodtrail/.git/objects/8a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 8d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8d
 250 OK. Current directory is /www/preprodtrail/.git/objects/8d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 8e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8e
 250 OK. Current directory is /www/preprodtrail/.git/objects/8e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 8f
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8f
 250 OK. Current directory is /www/preprodtrail/.git/objects/8f
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 90
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 90
 250 OK. Current directory is /www/preprodtrail/.git/objects/90
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD 91
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 91
+250 OK. Current directory is /www/preprodtrail/.git/objects/91
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 94
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 94
 250 OK. Current directory is /www/preprodtrail/.git/objects/94
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 95
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 95
 250 OK. Current directory is /www/preprodtrail/.git/objects/95
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 96
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 96
 250 OK. Current directory is /www/preprodtrail/.git/objects/96
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 97
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 97
 250 OK. Current directory is /www/preprodtrail/.git/objects/97
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 98
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 98
 250 OK. Current directory is /www/preprodtrail/.git/objects/98
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 99
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 99
 250 OK. Current directory is /www/preprodtrail/.git/objects/99
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 9a
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9a
 250 OK. Current directory is /www/preprodtrail/.git/objects/9a
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 9b
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9b
 250 OK. Current directory is /www/preprodtrail/.git/objects/9b
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 9c
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9c
 250 OK. Current directory is /www/preprodtrail/.git/objects/9c
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 9d
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9d
 250 OK. Current directory is /www/preprodtrail/.git/objects/9d
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD 9e
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9e
 250 OK. Current directory is /www/preprodtrail/.git/objects/9e
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a0
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a0
 250 OK. Current directory is /www/preprodtrail/.git/objects/a0
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a1
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a1
 250 OK. Current directory is /www/preprodtrail/.git/objects/a1
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a2
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a2
 250 OK. Current directory is /www/preprodtrail/.git/objects/a2
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a3
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a3
 250 OK. Current directory is /www/preprodtrail/.git/objects/a3
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a5
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a5
 250 OK. Current directory is /www/preprodtrail/.git/objects/a5
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a6
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a6
 250 OK. Current directory is /www/preprodtrail/.git/objects/a6
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a7
 250 OK. Current directory is /www/preprodtrail/.git/objects/a7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD a8
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a8
 250 OK. Current directory is /www/preprodtrail/.git/objects/a8
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD aa
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD aa
 250 OK. Current directory is /www/preprodtrail/.git/objects/aa
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ab
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ab
 250 OK. Current directory is /www/preprodtrail/.git/objects/ab
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ac
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ac
 250 OK. Current directory is /www/preprodtrail/.git/objects/ac
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ad
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ad
 250 OK. Current directory is /www/preprodtrail/.git/objects/ad
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ae
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ae
 250 OK. Current directory is /www/preprodtrail/.git/objects/ae
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD af
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD af
 250 OK. Current directory is /www/preprodtrail/.git/objects/af
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b0
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b0
 250 OK. Current directory is /www/preprodtrail/.git/objects/b0
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b1
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b1
 250 OK. Current directory is /www/preprodtrail/.git/objects/b1
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b2
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b2
 250 OK. Current directory is /www/preprodtrail/.git/objects/b2
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b3
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b3
 250 OK. Current directory is /www/preprodtrail/.git/objects/b3
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b4
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b4
 250 OK. Current directory is /www/preprodtrail/.git/objects/b4
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b5
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b5
 250 OK. Current directory is /www/preprodtrail/.git/objects/b5
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b7
 250 OK. Current directory is /www/preprodtrail/.git/objects/b7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b8
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b8
 250 OK. Current directory is /www/preprodtrail/.git/objects/b8
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD b9
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b9
 250 OK. Current directory is /www/preprodtrail/.git/objects/b9
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ba
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ba
 250 OK. Current directory is /www/preprodtrail/.git/objects/ba
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD bc
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bc
 250 OK. Current directory is /www/preprodtrail/.git/objects/bc
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD be
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD be
 250 OK. Current directory is /www/preprodtrail/.git/objects/be
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD bf
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bf
 250 OK. Current directory is /www/preprodtrail/.git/objects/bf
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c0
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c0
 250 OK. Current directory is /www/preprodtrail/.git/objects/c0
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c2
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c2
 250 OK. Current directory is /www/preprodtrail/.git/objects/c2
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c3
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c3
 250 OK. Current directory is /www/preprodtrail/.git/objects/c3
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
+MKD c4
+550-Can't create directory: Success
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
+CWD c4
+250 OK. Current directory is /www/preprodtrail/.git/objects/c4
+CWD /www/preprodtrail/.git/objects
+250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c7
 250 OK. Current directory is /www/preprodtrail/.git/objects/c7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c8
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c8
 250 OK. Current directory is /www/preprodtrail/.git/objects/c8
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD c9
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c9
 250 OK. Current directory is /www/preprodtrail/.git/objects/c9
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ca
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ca
 250 OK. Current directory is /www/preprodtrail/.git/objects/ca
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD cb
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cb
 250 OK. Current directory is /www/preprodtrail/.git/objects/cb
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD cc
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cc
 250 OK. Current directory is /www/preprodtrail/.git/objects/cc
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD cd
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cd
 250 OK. Current directory is /www/preprodtrail/.git/objects/cd
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD cf
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cf
 250 OK. Current directory is /www/preprodtrail/.git/objects/cf
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD d4
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d4
 250 OK. Current directory is /www/preprodtrail/.git/objects/d4
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD d6
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d6
 250 OK. Current directory is /www/preprodtrail/.git/objects/d6
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD d7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d7
 250 OK. Current directory is /www/preprodtrail/.git/objects/d7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD d9
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d9
 250 OK. Current directory is /www/preprodtrail/.git/objects/d9
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD da
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD da
 250 OK. Current directory is /www/preprodtrail/.git/objects/da
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD db
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD db
 250 OK. Current directory is /www/preprodtrail/.git/objects/db
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD dc
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD dc
 250 OK. Current directory is /www/preprodtrail/.git/objects/dc
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD dd
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD dd
 250 OK. Current directory is /www/preprodtrail/.git/objects/dd
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD de
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD de
 250 OK. Current directory is /www/preprodtrail/.git/objects/de
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD df
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD df
 250 OK. Current directory is /www/preprodtrail/.git/objects/df
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e0
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e0
 250 OK. Current directory is /www/preprodtrail/.git/objects/e0
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e2
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e2
 250 OK. Current directory is /www/preprodtrail/.git/objects/e2
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e3
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e3
 250 OK. Current directory is /www/preprodtrail/.git/objects/e3
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e5
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e5
 250 OK. Current directory is /www/preprodtrail/.git/objects/e5
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e6
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e6
 250 OK. Current directory is /www/preprodtrail/.git/objects/e6
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e7
 250 OK. Current directory is /www/preprodtrail/.git/objects/e7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e8
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e8
 250 OK. Current directory is /www/preprodtrail/.git/objects/e8
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD e9
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e9
 250 OK. Current directory is /www/preprodtrail/.git/objects/e9
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD eb
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD eb
 250 OK. Current directory is /www/preprodtrail/.git/objects/eb
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ec
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ec
 250 OK. Current directory is /www/preprodtrail/.git/objects/ec
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ed
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ed
 250 OK. Current directory is /www/preprodtrail/.git/objects/ed
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ef
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ef
 250 OK. Current directory is /www/preprodtrail/.git/objects/ef
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f0
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f0
 250 OK. Current directory is /www/preprodtrail/.git/objects/f0
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f1
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f1
 250 OK. Current directory is /www/preprodtrail/.git/objects/f1
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f3
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f3
 250 OK. Current directory is /www/preprodtrail/.git/objects/f3
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f4
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f4
 250 OK. Current directory is /www/preprodtrail/.git/objects/f4
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f5
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f5
 250 OK. Current directory is /www/preprodtrail/.git/objects/f5
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f6
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f6
 250 OK. Current directory is /www/preprodtrail/.git/objects/f6
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f7
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f7
 250 OK. Current directory is /www/preprodtrail/.git/objects/f7
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f8
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f8
 250 OK. Current directory is /www/preprodtrail/.git/objects/f8
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD f9
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f9
 250 OK. Current directory is /www/preprodtrail/.git/objects/f9
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD fa
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fa
 250 OK. Current directory is /www/preprodtrail/.git/objects/fa
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD fb
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fb
 250 OK. Current directory is /www/preprodtrail/.git/objects/fb
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD fc
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fc
 250 OK. Current directory is /www/preprodtrail/.git/objects/fc
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD fd
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fd
 250 OK. Current directory is /www/preprodtrail/.git/objects/fd
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD fe
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fe
 250 OK. Current directory is /www/preprodtrail/.git/objects/fe
 CWD /www/preprodtrail/.git/objects
 250 OK. Current directory is /www/preprodtrail/.git/objects
 MKD ff
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ff
 250 OK. Current directory is /www/preprodtrail/.git/objects/ff
 CWD /www/preprodtrail/.git/objects
@@ -2095,32 +1809,32 @@ CWD /www/preprodtrail/.git
 250 OK. Current directory is /www/preprodtrail/.git
 MKD refs
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD refs
 250 OK. Current directory is /www/preprodtrail/.git/refs
 PWD
 257 "/www/preprodtrail/.git/refs" is your current location
 MKD heads
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD heads
 250 OK. Current directory is /www/preprodtrail/.git/refs/heads
 CWD /www/preprodtrail/.git/refs
 250 OK. Current directory is /www/preprodtrail/.git/refs
 MKD remotes
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD remotes
 250 OK. Current directory is /www/preprodtrail/.git/refs/remotes
 PWD
 257 "/www/preprodtrail/.git/refs/remotes" is your current location
 MKD origin
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD origin
 250 OK. Current directory is /www/preprodtrail/.git/refs/remotes/origin
 CWD /www/preprodtrail/.git/refs/remotes
@@ -2133,56 +1847,18 @@ CWD /www/preprodtrail
 250 OK. Current directory is /www/preprodtrail
 MKD Backup
 550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Backup
 250 OK. Current directory is /www/preprodtrail/Backup
 CWD /www/preprodtrail
 250 OK. Current directory is /www/preprodtrail
-MKD Files
-550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
-CWD Files
-250 OK. Current directory is /www/preprodtrail/Files
-PWD
-257 "/www/preprodtrail/Files" is your current location
-MKD Other
-550-Can't create directory: Success
-550-2067 files used (1%) - authorized: 150000 files
-550 111499 Kbytes used (0%) - authorized: 157286400 Kb
-CWD Other
-250 OK. Current directory is /www/preprodtrail/Files/Other
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,85,240)
-STOR Reglement_concat_2018.pdf
-150 Accepted data connection
-226-2068 files used (1%) - authorized: 150000 files
-226-116095 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 1.527 seconds (measured here), 2.94 Mbytes per second
-CWD /www/preprodtrail/Files
-250 OK. Current directory is /www/preprodtrail/Files
-CWD /www/preprodtrail
-250 OK. Current directory is /www/preprodtrail
 MKD Templates
 550-Can't create directory: Success
-550-2068 files used (1%) - authorized: 150000 files
-550 116095 Kbytes used (0%) - authorized: 157286400 Kb
+550-2157 files used (1%) - authorized: 150000 files
+550 118497 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Templates
 250 OK. Current directory is /www/preprodtrail/Templates
-TYPE I
-200 TYPE is now 8-bit binary
-PASV
-227 Entering Passive Mode (62,210,16,42,86,143)
-STOR design.css
-150 Accepted data connection
-226-2069 files used (1%) - authorized: 150000 files
-226-116095 Kbytes used (0%) - authorized: 157286400 Kb
-226-File successfully transferred
-226 0.090 seconds (measured here), 85.18 Kbytes per second
 CWD /www/preprodtrail
 250 OK. Current directory is /www/preprodtrail
 PWD
