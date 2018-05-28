@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://traildesvignes.net/</loc>
-    <lastmod>2018-05-14</lastmod>
+    <lastmod>2018-05-28</lastmod>
   </url>
   <url oeid="813e33d8-692c-4f69-9c94-72e88bf4dc08" oelang="DEFAULT">
     <loc>http://traildesvignes.net/contact.htm</loc>
@@ -114,13 +114,13 @@
   </url>
   <url oeid="a71b0058-4852-4211-8ef4-02b94d9b5196" oelang="DEFAULT">
     <loc>http://traildesvignes.net/Photos.htm</loc>
-    <lastmod>2018-01-31</lastmod>
+    <lastmod>2018-05-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos.htm" />
     <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos.en.htm" />
   </url>
   <url oeid="a71b0058-4852-4211-8ef4-02b94d9b5196" oelang="EN">
     <loc>http://traildesvignes.net/Photos.en.htm</loc>
-    <lastmod>2018-01-31</lastmod>
+    <lastmod>2018-05-28</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="http://traildesvignes.net/Photos.htm" />
     <xhtml:link rel="alternate" hreflang="en" href="http://traildesvignes.net/Photos.en.htm" />
   </url>

@@ -47,50 +47,40 @@
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Resultats(var).js</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.css</LocalPath>
     <Index>3</Index>
-    <Path>Resultats(var).js</Path>
-    <Size>1583</Size>
+    <Path>Photos.css</Path>
+    <Size>3420</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Resultats.css</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Photos.dat</LocalPath>
     <Index>4</Index>
-    <Path>Resultats.css</Path>
-    <Size>3443</Size>
+    <Path>Backup/Photos.dat</Path>
+    <Size>596551</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Resultats.dat</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.en.htm</LocalPath>
     <Index>5</Index>
-    <Path>Backup/Resultats.dat</Path>
-    <Size>582055</Size>
+    <Path>Photos.en.htm</Path>
+    <Size>27509</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Resultats.en.htm</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.htm</LocalPath>
     <Index>6</Index>
-    <Path>Resultats.en.htm</Path>
-    <Size>28863</Size>
-    <Command>Add</Command>
-    <Progress>100</Progress>
-    <Retry>1</Retry>
-    <Success>true</Success>
-  </FtpData>
-  <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Resultats.htm</LocalPath>
-    <Index>7</Index>
-    <Path>Resultats.htm</Path>
-    <Size>28788</Size>
+    <Path>Photos.htm</Path>
+    <Size>27532</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
@@ -98,7 +88,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\sitemap.xml</LocalPath>
-    <Index>8</Index>
+    <Index>7</Index>
     <Path>sitemap.xml</Path>
     <Size>8286</Size>
     <Command>Add</Command>
@@ -108,7 +98,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\robots.txt</LocalPath>
-    <Index>9</Index>
+    <Index>8</Index>
     <Path>robots.txt</Path>
     <Size>45</Size>
     <Command>Add</Command>
@@ -118,7 +108,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEGalleryCarrousel2_4c2a6f64.OESkin</LocalPath>
-    <Index>10</Index>
+    <Index>9</Index>
     <Path>Backup/Templates/Controls/WEGalleryCarrousel2_4c2a6f64.OESkin</Path>
     <Size>63861</Size>
     <Command>Add</Command>
@@ -128,7 +118,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEMenu_30e74168.OESkin</LocalPath>
-    <Index>11</Index>
+    <Index>10</Index>
     <Path>Backup/Templates/Controls/WEMenu_30e74168.OESkin</Path>
     <Size>63872</Size>
     <Command>Add</Command>
@@ -138,7 +128,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEText_d0120a9e.OESkin</LocalPath>
-    <Index>12</Index>
+    <Index>11</Index>
     <Path>Backup/Templates/Controls/WEText_d0120a9e.OESkin</Path>
     <Size>59566</Size>
     <Command>Add</Command>
@@ -148,7 +138,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\TrailV2.ope</LocalPath>
-    <Index>13</Index>
+    <Index>12</Index>
     <Path>Backup/TrailV2.ope</Path>
     <Size>3627</Size>
     <Command>Add</Command>
