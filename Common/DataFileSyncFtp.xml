@@ -47,40 +47,50 @@
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.css</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\index(var).js</LocalPath>
     <Index>3</Index>
-    <Path>Photos.css</Path>
-    <Size>3420</Size>
+    <Path>index(var).js</Path>
+    <Size>1583</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Photos.dat</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\index.css</LocalPath>
     <Index>4</Index>
-    <Path>Backup/Photos.dat</Path>
-    <Size>596551</Size>
+    <Path>index.css</Path>
+    <Size>4350</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.en.htm</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\index.dat</LocalPath>
     <Index>5</Index>
-    <Path>Photos.en.htm</Path>
-    <Size>27509</Size>
+    <Path>Backup/index.dat</Path>
+    <Size>694856</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
     <Success>true</Success>
   </FtpData>
   <FtpData>
-    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Photos.htm</LocalPath>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\index.en.htm</LocalPath>
     <Index>6</Index>
-    <Path>Photos.htm</Path>
-    <Size>27532</Size>
+    <Path>index.en.htm</Path>
+    <Size>29707</Size>
+    <Command>Add</Command>
+    <Progress>100</Progress>
+    <Retry>1</Retry>
+    <Success>true</Success>
+  </FtpData>
+  <FtpData>
+    <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\index.htm</LocalPath>
+    <Index>7</Index>
+    <Path>index.htm</Path>
+    <Size>29807</Size>
     <Command>Add</Command>
     <Progress>100</Progress>
     <Retry>1</Retry>
@@ -88,7 +98,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\sitemap.xml</LocalPath>
-    <Index>7</Index>
+    <Index>8</Index>
     <Path>sitemap.xml</Path>
     <Size>8286</Size>
     <Command>Add</Command>
@@ -98,7 +108,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\robots.txt</LocalPath>
-    <Index>8</Index>
+    <Index>9</Index>
     <Path>robots.txt</Path>
     <Size>45</Size>
     <Command>Add</Command>
@@ -108,7 +118,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEGalleryCarrousel2_4c2a6f64.OESkin</LocalPath>
-    <Index>9</Index>
+    <Index>10</Index>
     <Path>Backup/Templates/Controls/WEGalleryCarrousel2_4c2a6f64.OESkin</Path>
     <Size>63861</Size>
     <Command>Add</Command>
@@ -118,7 +128,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEMenu_30e74168.OESkin</LocalPath>
-    <Index>10</Index>
+    <Index>11</Index>
     <Path>Backup/Templates/Controls/WEMenu_30e74168.OESkin</Path>
     <Size>63872</Size>
     <Command>Add</Command>
@@ -128,7 +138,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\Templates\Controls\WEText_d0120a9e.OESkin</LocalPath>
-    <Index>11</Index>
+    <Index>12</Index>
     <Path>Backup/Templates/Controls/WEText_d0120a9e.OESkin</Path>
     <Size>59566</Size>
     <Command>Add</Command>
@@ -138,7 +148,7 @@
   </FtpData>
   <FtpData>
     <LocalPath>C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2_Backup\Backup\TrailV2.ope</LocalPath>
-    <Index>12</Index>
+    <Index>13</Index>
     <Path>Backup/TrailV2.ope</Path>
     <Size>3627</Size>
     <Command>Add</Command>

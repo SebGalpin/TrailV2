@@ -1,16 +1,16 @@
 Ouverture de la connexion, veuillez patienter ...
 Data delete : C:\Users\Seb\AppData\Local\Temp\openElementFtp\TrailV2\Backup\.htaccess
 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
-220-You are user number 71 of 4000 allowed.
-220-Local time is now 06:45. Server port: 21.
+220-You are user number 91 of 4000 allowed.
+220-Local time is now 16:27. Server port: 21.
 220-This is a private system - No anonymous login
 220 You will be disconnected after 15 minutes of inactivity.
 USER ********
 331 User webmaster@traildesvignes.net OK. Password required
 PASS ********
 230-OK. Current restricted directory is /
-230-2278 files used (1%) - authorized: 150000 files
-230 141072 Kbytes used (0%) - authorized: 157286400 Kb
+230-2209 files used (1%) - authorized: 150000 files
+230 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD www
 250 OK. Current directory is /www
 PWD
@@ -18,109 +18,119 @@ PWD
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,90,181)
+227 Entering Passive Mode (62,210,16,42,88,139)
 STOR .htaccess
 150 Accepted data connection
-226-2279 files used (1%) - authorized: 150000 files
-226-141072 Kbytes used (0%) - authorized: 157286400 Kb
+226-2210 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.085 seconds (measured here), 5.04 Kbytes per second
+226 0.079 seconds (measured here), 5.43 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,83,212)
-STOR Photos.css
+227 Entering Passive Mode (62,210,16,42,103,110)
+STOR index(var).js
 150 Accepted data connection
-226-2280 files used (1%) - authorized: 150000 files
-226-141072 Kbytes used (0%) - authorized: 157286400 Kb
+226-2211 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.051 seconds (measured here), 65.12 Kbytes per second
+226 0.029 seconds (measured here), 53.71 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,104,100)
-STOR Photos.en.htm
+227 Entering Passive Mode (62,210,16,42,106,187)
+STOR index.css
 150 Accepted data connection
-226-2281 files used (1%) - authorized: 150000 files
-226-141072 Kbytes used (0%) - authorized: 157286400 Kb
+226-2212 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.028 seconds (measured here), 0.95 Mbytes per second
+226 0.041 seconds (measured here), 103.17 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,97,216)
-STOR Photos.htm
+227 Entering Passive Mode (62,210,16,42,108,19)
+STOR index.en.htm
 150 Accepted data connection
-226-2282 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2213 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.034 seconds (measured here), 0.76 Mbytes per second
+226 0.025 seconds (measured here), 1.12 Mbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,94,229)
+227 Entering Passive Mode (62,210,16,42,94,191)
+STOR index.htm
+150 Accepted data connection
+226-2214 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
+226-File successfully transferred
+226 0.050 seconds (measured here), 0.57 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (62,210,16,42,93,240)
 STOR robots.txt
 150 Accepted data connection
-226-2283 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2215 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.020 seconds (measured here), 2.23 Kbytes per second
+226 0.021 seconds (measured here), 2.12 Kbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,93,170)
+227 Entering Passive Mode (62,210,16,42,105,26)
 STOR sitemap.xml
 150 Accepted data connection
-226-2284 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2216 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.039 seconds (measured here), 205.13 Kbytes per second
+226 0.031 seconds (measured here), 257.40 Kbytes per second
 PWD
 257 "/www" is your current location
 MKD .git
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD .git
 250 OK. Current directory is /www/.git
 PWD
 257 "/www/.git" is your current location
 MKD hooks
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD hooks
 250 OK. Current directory is /www/.git/hooks
 CWD /www/.git
 250 OK. Current directory is /www/.git
 MKD info
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD info
 250 OK. Current directory is /www/.git/info
 CWD /www/.git
 250 OK. Current directory is /www/.git
 MKD lfs
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD lfs
 250 OK. Current directory is /www/.git/lfs
 PWD
 257 "/www/.git/lfs" is your current location
 MKD objects
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD objects
 250 OK. Current directory is /www/.git/lfs/objects
 CWD /www/.git/lfs
 250 OK. Current directory is /www/.git/lfs
 MKD tmp
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD tmp
 250 OK. Current directory is /www/.git/lfs/tmp
 CWD /www/.git/lfs
@@ -129,40 +139,40 @@ CWD /www/.git
 250 OK. Current directory is /www/.git
 MKD logs
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD logs
 250 OK. Current directory is /www/.git/logs
 PWD
 257 "/www/.git/logs" is your current location
 MKD refs
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD refs
 250 OK. Current directory is /www/.git/logs/refs
 PWD
 257 "/www/.git/logs/refs" is your current location
 MKD heads
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD heads
 250 OK. Current directory is /www/.git/logs/refs/heads
 CWD /www/.git/logs/refs
 250 OK. Current directory is /www/.git/logs/refs
 MKD remotes
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD remotes
 250 OK. Current directory is /www/.git/logs/refs/remotes
 PWD
 257 "/www/.git/logs/refs/remotes" is your current location
 MKD origin
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD origin
 250 OK. Current directory is /www/.git/logs/refs/remotes/origin
 CWD /www/.git/logs/refs/remotes
@@ -175,1832 +185,1848 @@ CWD /www/.git
 250 OK. Current directory is /www/.git
 MKD objects
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD objects
 250 OK. Current directory is /www/.git/objects
 PWD
 257 "/www/.git/objects" is your current location
 MKD 00
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 00
 250 OK. Current directory is /www/.git/objects/00
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 01
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 01
 250 OK. Current directory is /www/.git/objects/01
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 02
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 02
 250 OK. Current directory is /www/.git/objects/02
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 03
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 03
 250 OK. Current directory is /www/.git/objects/03
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 04
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 04
 250 OK. Current directory is /www/.git/objects/04
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 05
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 05
 250 OK. Current directory is /www/.git/objects/05
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 06
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 06
 250 OK. Current directory is /www/.git/objects/06
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 07
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 07
 250 OK. Current directory is /www/.git/objects/07
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 08
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 08
 250 OK. Current directory is /www/.git/objects/08
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 09
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 09
 250 OK. Current directory is /www/.git/objects/09
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0a
 250 OK. Current directory is /www/.git/objects/0a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0b
 250 OK. Current directory is /www/.git/objects/0b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0c
 250 OK. Current directory is /www/.git/objects/0c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0d
 250 OK. Current directory is /www/.git/objects/0d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0e
 250 OK. Current directory is /www/.git/objects/0e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 0f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 0f
 250 OK. Current directory is /www/.git/objects/0f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 10
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 10
 250 OK. Current directory is /www/.git/objects/10
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 11
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 11
 250 OK. Current directory is /www/.git/objects/11
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 12
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 12
 250 OK. Current directory is /www/.git/objects/12
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 13
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 13
 250 OK. Current directory is /www/.git/objects/13
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 14
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 14
 250 OK. Current directory is /www/.git/objects/14
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 15
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 15
 250 OK. Current directory is /www/.git/objects/15
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 16
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 16
 250 OK. Current directory is /www/.git/objects/16
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 17
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 17
 250 OK. Current directory is /www/.git/objects/17
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 18
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 18
 250 OK. Current directory is /www/.git/objects/18
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 19
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 19
 250 OK. Current directory is /www/.git/objects/19
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 1b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1b
 250 OK. Current directory is /www/.git/objects/1b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 1c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1c
 250 OK. Current directory is /www/.git/objects/1c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 1d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1d
 250 OK. Current directory is /www/.git/objects/1d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 1e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1e
 250 OK. Current directory is /www/.git/objects/1e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 1f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 1f
 250 OK. Current directory is /www/.git/objects/1f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 20
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 20
 250 OK. Current directory is /www/.git/objects/20
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 22
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 22
 250 OK. Current directory is /www/.git/objects/22
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 23
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 23
 250 OK. Current directory is /www/.git/objects/23
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 25
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 25
 250 OK. Current directory is /www/.git/objects/25
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 26
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 26
 250 OK. Current directory is /www/.git/objects/26
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 27
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 27
 250 OK. Current directory is /www/.git/objects/27
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 28
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 28
 250 OK. Current directory is /www/.git/objects/28
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 29
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 29
 250 OK. Current directory is /www/.git/objects/29
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2a
 250 OK. Current directory is /www/.git/objects/2a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2b
 250 OK. Current directory is /www/.git/objects/2b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2c
 250 OK. Current directory is /www/.git/objects/2c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2d
 250 OK. Current directory is /www/.git/objects/2d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2e
 250 OK. Current directory is /www/.git/objects/2e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 2f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 2f
 250 OK. Current directory is /www/.git/objects/2f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 30
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 30
 250 OK. Current directory is /www/.git/objects/30
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 31
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 31
 250 OK. Current directory is /www/.git/objects/31
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 34
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 34
 250 OK. Current directory is /www/.git/objects/34
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 35
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 35
 250 OK. Current directory is /www/.git/objects/35
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
+MKD 36
+550-Can't create directory: Success
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
+CWD 36
+250 OK. Current directory is /www/.git/objects/36
+CWD /www/.git/objects
+250 OK. Current directory is /www/.git/objects
 MKD 37
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 37
 250 OK. Current directory is /www/.git/objects/37
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 39
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 39
 250 OK. Current directory is /www/.git/objects/39
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 3a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3a
 250 OK. Current directory is /www/.git/objects/3a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 3b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3b
 250 OK. Current directory is /www/.git/objects/3b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 3c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3c
 250 OK. Current directory is /www/.git/objects/3c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 3e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3e
 250 OK. Current directory is /www/.git/objects/3e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 3f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 3f
 250 OK. Current directory is /www/.git/objects/3f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 40
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 40
 250 OK. Current directory is /www/.git/objects/40
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 42
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 42
 250 OK. Current directory is /www/.git/objects/42
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 43
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 43
 250 OK. Current directory is /www/.git/objects/43
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 44
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 44
 250 OK. Current directory is /www/.git/objects/44
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 45
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 45
 250 OK. Current directory is /www/.git/objects/45
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 46
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 46
 250 OK. Current directory is /www/.git/objects/46
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 47
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 47
 250 OK. Current directory is /www/.git/objects/47
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 48
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 48
 250 OK. Current directory is /www/.git/objects/48
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 49
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 49
 250 OK. Current directory is /www/.git/objects/49
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4a
 250 OK. Current directory is /www/.git/objects/4a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4b
 250 OK. Current directory is /www/.git/objects/4b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4c
 250 OK. Current directory is /www/.git/objects/4c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4d
 250 OK. Current directory is /www/.git/objects/4d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4e
 250 OK. Current directory is /www/.git/objects/4e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 4f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 4f
 250 OK. Current directory is /www/.git/objects/4f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 50
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 50
 250 OK. Current directory is /www/.git/objects/50
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 51
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 51
 250 OK. Current directory is /www/.git/objects/51
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 52
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 52
 250 OK. Current directory is /www/.git/objects/52
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 53
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 53
 250 OK. Current directory is /www/.git/objects/53
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 54
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 54
 250 OK. Current directory is /www/.git/objects/54
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 55
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 55
 250 OK. Current directory is /www/.git/objects/55
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 56
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 56
 250 OK. Current directory is /www/.git/objects/56
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 59
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 59
 250 OK. Current directory is /www/.git/objects/59
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 5b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5b
 250 OK. Current directory is /www/.git/objects/5b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 5c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5c
 250 OK. Current directory is /www/.git/objects/5c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 5d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5d
 250 OK. Current directory is /www/.git/objects/5d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 5e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5e
 250 OK. Current directory is /www/.git/objects/5e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 5f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 5f
 250 OK. Current directory is /www/.git/objects/5f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 60
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 60
 250 OK. Current directory is /www/.git/objects/60
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 61
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 61
 250 OK. Current directory is /www/.git/objects/61
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 63
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 63
 250 OK. Current directory is /www/.git/objects/63
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 64
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 64
 250 OK. Current directory is /www/.git/objects/64
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 65
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 65
 250 OK. Current directory is /www/.git/objects/65
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 66
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 66
 250 OK. Current directory is /www/.git/objects/66
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 67
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 67
 250 OK. Current directory is /www/.git/objects/67
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 69
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 69
 250 OK. Current directory is /www/.git/objects/69
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6a
 250 OK. Current directory is /www/.git/objects/6a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6b
 250 OK. Current directory is /www/.git/objects/6b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6c
 250 OK. Current directory is /www/.git/objects/6c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6d
 250 OK. Current directory is /www/.git/objects/6d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6e
 250 OK. Current directory is /www/.git/objects/6e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 6f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 6f
 250 OK. Current directory is /www/.git/objects/6f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 70
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 70
 250 OK. Current directory is /www/.git/objects/70
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 72
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 72
 250 OK. Current directory is /www/.git/objects/72
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 73
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 73
 250 OK. Current directory is /www/.git/objects/73
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 74
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 74
 250 OK. Current directory is /www/.git/objects/74
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 75
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 75
 250 OK. Current directory is /www/.git/objects/75
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 76
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 76
 250 OK. Current directory is /www/.git/objects/76
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 77
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 77
 250 OK. Current directory is /www/.git/objects/77
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 78
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 78
 250 OK. Current directory is /www/.git/objects/78
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 79
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 79
 250 OK. Current directory is /www/.git/objects/79
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7a
 250 OK. Current directory is /www/.git/objects/7a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7b
 250 OK. Current directory is /www/.git/objects/7b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7c
 250 OK. Current directory is /www/.git/objects/7c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7d
 250 OK. Current directory is /www/.git/objects/7d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7e
 250 OK. Current directory is /www/.git/objects/7e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 7f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 7f
 250 OK. Current directory is /www/.git/objects/7f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 80
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 80
 250 OK. Current directory is /www/.git/objects/80
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 81
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 81
 250 OK. Current directory is /www/.git/objects/81
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 82
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 82
 250 OK. Current directory is /www/.git/objects/82
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 83
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 83
 250 OK. Current directory is /www/.git/objects/83
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 84
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 84
 250 OK. Current directory is /www/.git/objects/84
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 85
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 85
 250 OK. Current directory is /www/.git/objects/85
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 86
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 86
 250 OK. Current directory is /www/.git/objects/86
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 87
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 87
 250 OK. Current directory is /www/.git/objects/87
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 88
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 88
 250 OK. Current directory is /www/.git/objects/88
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 89
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 89
 250 OK. Current directory is /www/.git/objects/89
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 8a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8a
 250 OK. Current directory is /www/.git/objects/8a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 8c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8c
 250 OK. Current directory is /www/.git/objects/8c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 8d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8d
 250 OK. Current directory is /www/.git/objects/8d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 8e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8e
 250 OK. Current directory is /www/.git/objects/8e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 8f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 8f
 250 OK. Current directory is /www/.git/objects/8f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 90
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 90
 250 OK. Current directory is /www/.git/objects/90
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 91
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 91
 250 OK. Current directory is /www/.git/objects/91
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 94
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 94
 250 OK. Current directory is /www/.git/objects/94
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 95
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 95
 250 OK. Current directory is /www/.git/objects/95
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 96
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 96
 250 OK. Current directory is /www/.git/objects/96
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 97
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 97
 250 OK. Current directory is /www/.git/objects/97
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 98
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 98
 250 OK. Current directory is /www/.git/objects/98
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 99
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 99
 250 OK. Current directory is /www/.git/objects/99
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9a
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9a
 250 OK. Current directory is /www/.git/objects/9a
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9b
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9b
 250 OK. Current directory is /www/.git/objects/9b
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9c
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9c
 250 OK. Current directory is /www/.git/objects/9c
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9d
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9d
 250 OK. Current directory is /www/.git/objects/9d
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9e
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9e
 250 OK. Current directory is /www/.git/objects/9e
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD 9f
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD 9f
 250 OK. Current directory is /www/.git/objects/9f
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a0
 250 OK. Current directory is /www/.git/objects/a0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a1
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a1
 250 OK. Current directory is /www/.git/objects/a1
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a2
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a2
 250 OK. Current directory is /www/.git/objects/a2
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a3
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a3
 250 OK. Current directory is /www/.git/objects/a3
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a4
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a4
 250 OK. Current directory is /www/.git/objects/a4
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a5
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a5
 250 OK. Current directory is /www/.git/objects/a5
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a6
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a6
 250 OK. Current directory is /www/.git/objects/a6
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a7
 250 OK. Current directory is /www/.git/objects/a7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a8
 250 OK. Current directory is /www/.git/objects/a8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD a9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD a9
 250 OK. Current directory is /www/.git/objects/a9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD aa
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD aa
 250 OK. Current directory is /www/.git/objects/aa
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ab
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ab
 250 OK. Current directory is /www/.git/objects/ab
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ac
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ac
 250 OK. Current directory is /www/.git/objects/ac
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ad
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ad
 250 OK. Current directory is /www/.git/objects/ad
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ae
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ae
 250 OK. Current directory is /www/.git/objects/ae
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD af
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD af
 250 OK. Current directory is /www/.git/objects/af
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b0
 250 OK. Current directory is /www/.git/objects/b0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b1
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b1
 250 OK. Current directory is /www/.git/objects/b1
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b2
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b2
 250 OK. Current directory is /www/.git/objects/b2
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b3
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b3
 250 OK. Current directory is /www/.git/objects/b3
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b4
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b4
 250 OK. Current directory is /www/.git/objects/b4
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b5
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b5
 250 OK. Current directory is /www/.git/objects/b5
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b7
 250 OK. Current directory is /www/.git/objects/b7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b8
 250 OK. Current directory is /www/.git/objects/b8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD b9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD b9
 250 OK. Current directory is /www/.git/objects/b9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ba
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ba
 250 OK. Current directory is /www/.git/objects/ba
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD bb
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bb
 250 OK. Current directory is /www/.git/objects/bb
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD bc
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bc
 250 OK. Current directory is /www/.git/objects/bc
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD bd
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bd
 250 OK. Current directory is /www/.git/objects/bd
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD be
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD be
 250 OK. Current directory is /www/.git/objects/be
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD bf
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD bf
 250 OK. Current directory is /www/.git/objects/bf
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c0
 250 OK. Current directory is /www/.git/objects/c0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c2
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c2
 250 OK. Current directory is /www/.git/objects/c2
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c3
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c3
 250 OK. Current directory is /www/.git/objects/c3
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c4
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c4
 250 OK. Current directory is /www/.git/objects/c4
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
+MKD c5
+550-Can't create directory: Success
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
+CWD c5
+250 OK. Current directory is /www/.git/objects/c5
+CWD /www/.git/objects
+250 OK. Current directory is /www/.git/objects
 MKD c7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c7
 250 OK. Current directory is /www/.git/objects/c7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c8
 250 OK. Current directory is /www/.git/objects/c8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD c9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD c9
 250 OK. Current directory is /www/.git/objects/c9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ca
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ca
 250 OK. Current directory is /www/.git/objects/ca
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD cb
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cb
 250 OK. Current directory is /www/.git/objects/cb
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD cc
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cc
 250 OK. Current directory is /www/.git/objects/cc
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD cd
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cd
 250 OK. Current directory is /www/.git/objects/cd
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD cf
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD cf
 250 OK. Current directory is /www/.git/objects/cf
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d0
 250 OK. Current directory is /www/.git/objects/d0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d2
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d2
 250 OK. Current directory is /www/.git/objects/d2
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d4
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d4
 250 OK. Current directory is /www/.git/objects/d4
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d5
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d5
 250 OK. Current directory is /www/.git/objects/d5
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d6
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d6
 250 OK. Current directory is /www/.git/objects/d6
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d7
 250 OK. Current directory is /www/.git/objects/d7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d8
 250 OK. Current directory is /www/.git/objects/d8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD d9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD d9
 250 OK. Current directory is /www/.git/objects/d9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD da
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD da
 250 OK. Current directory is /www/.git/objects/da
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD db
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD db
 250 OK. Current directory is /www/.git/objects/db
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD dc
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD dc
 250 OK. Current directory is /www/.git/objects/dc
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD dd
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD dd
 250 OK. Current directory is /www/.git/objects/dd
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD de
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD de
 250 OK. Current directory is /www/.git/objects/de
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD df
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD df
 250 OK. Current directory is /www/.git/objects/df
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e0
 250 OK. Current directory is /www/.git/objects/e0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e1
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e1
 250 OK. Current directory is /www/.git/objects/e1
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e2
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e2
 250 OK. Current directory is /www/.git/objects/e2
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e3
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e3
 250 OK. Current directory is /www/.git/objects/e3
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e5
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e5
 250 OK. Current directory is /www/.git/objects/e5
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e6
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e6
 250 OK. Current directory is /www/.git/objects/e6
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e7
 250 OK. Current directory is /www/.git/objects/e7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e8
 250 OK. Current directory is /www/.git/objects/e8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD e9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD e9
 250 OK. Current directory is /www/.git/objects/e9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ea
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ea
 250 OK. Current directory is /www/.git/objects/ea
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD eb
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD eb
 250 OK. Current directory is /www/.git/objects/eb
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ec
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ec
 250 OK. Current directory is /www/.git/objects/ec
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ed
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ed
 250 OK. Current directory is /www/.git/objects/ed
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ef
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ef
 250 OK. Current directory is /www/.git/objects/ef
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f0
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f0
 250 OK. Current directory is /www/.git/objects/f0
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f1
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f1
 250 OK. Current directory is /www/.git/objects/f1
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f3
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f3
 250 OK. Current directory is /www/.git/objects/f3
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f4
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f4
 250 OK. Current directory is /www/.git/objects/f4
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f5
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f5
 250 OK. Current directory is /www/.git/objects/f5
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f6
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f6
 250 OK. Current directory is /www/.git/objects/f6
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f7
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f7
 250 OK. Current directory is /www/.git/objects/f7
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f8
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f8
 250 OK. Current directory is /www/.git/objects/f8
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD f9
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD f9
 250 OK. Current directory is /www/.git/objects/f9
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD fa
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fa
 250 OK. Current directory is /www/.git/objects/fa
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD fb
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fb
 250 OK. Current directory is /www/.git/objects/fb
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD fc
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fc
 250 OK. Current directory is /www/.git/objects/fc
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD fd
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fd
 250 OK. Current directory is /www/.git/objects/fd
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD fe
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD fe
 250 OK. Current directory is /www/.git/objects/fe
 CWD /www/.git/objects
 250 OK. Current directory is /www/.git/objects
 MKD ff
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD ff
 250 OK. Current directory is /www/.git/objects/ff
 CWD /www/.git/objects
@@ -2009,32 +2035,32 @@ CWD /www/.git
 250 OK. Current directory is /www/.git
 MKD refs
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD refs
 250 OK. Current directory is /www/.git/refs
 PWD
 257 "/www/.git/refs" is your current location
 MKD heads
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD heads
 250 OK. Current directory is /www/.git/refs/heads
 CWD /www/.git/refs
 250 OK. Current directory is /www/.git/refs
 MKD remotes
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD remotes
 250 OK. Current directory is /www/.git/refs/remotes
 PWD
 257 "/www/.git/refs/remotes" is your current location
 MKD origin
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD origin
 250 OK. Current directory is /www/.git/refs/remotes/origin
 CWD /www/.git/refs/remotes
@@ -2047,16 +2073,16 @@ CWD /www
 250 OK. Current directory is /www
 MKD Backup
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Backup
 250 OK. Current directory is /www/Backup
 CWD /www
 250 OK. Current directory is /www
 MKD Templates
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Templates
 250 OK. Current directory is /www/Templates
 CWD /www
@@ -2067,86 +2093,86 @@ PWD
 257 "/www" is your current location
 MKD Backup
 550-Can't create directory: Success
-550-2284 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2216 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Backup
 250 OK. Current directory is /www/Backup
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,96,175)
+227 Entering Passive Mode (62,210,16,42,113,64)
 STOR .htaccess
 150 Accepted data connection
-226-2285 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2217 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.019 seconds (measured here), 1.65 Kbytes per second
+226 0.073 seconds (measured here), 453.04 bytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,94,106)
-STOR Photos.dat
+227 Entering Passive Mode (62,210,16,42,95,238)
+STOR index.dat
 150 Accepted data connection
-226-2286 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2218 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.166 seconds (measured here), 3.43 Mbytes per second
+226 0.210 seconds (measured here), 3.16 Mbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,93,193)
+227 Entering Passive Mode (62,210,16,42,82,23)
 STOR TrailV2.ope
 150 Accepted data connection
-226-2287 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2219 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.022 seconds (measured here), 163.73 Kbytes per second
+226 0.028 seconds (measured here), 128.33 Kbytes per second
 PWD
 257 "/www/Backup" is your current location
 MKD Templates
 550-Can't create directory: Success
-550-2287 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2219 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Templates
 250 OK. Current directory is /www/Backup/Templates
 PWD
 257 "/www/Backup/Templates" is your current location
 MKD Controls
 550-Can't create directory: Success
-550-2287 files used (1%) - authorized: 150000 files
-550 141073 Kbytes used (0%) - authorized: 157286400 Kb
+550-2219 files used (1%) - authorized: 150000 files
+550 141195 Kbytes used (0%) - authorized: 157286400 Kb
 CWD Controls
 250 OK. Current directory is /www/Backup/Templates/Controls
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,90,234)
+227 Entering Passive Mode (62,210,16,42,90,164)
 STOR WEGalleryCarrousel2_4c2a6f64.OESkin
 150 Accepted data connection
-226-2288 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2220 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.042 seconds (measured here), 1.46 Mbytes per second
+226 0.057 seconds (measured here), 1.07 Mbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,91,96)
+227 Entering Passive Mode (62,210,16,42,102,187)
 STOR WEMenu_30e74168.OESkin
 150 Accepted data connection
-226-2289 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2221 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.036 seconds (measured here), 1.69 Mbytes per second
+226 0.054 seconds (measured here), 1.13 Mbytes per second
 TYPE I
 200 TYPE is now 8-bit binary
 PASV
-227 Entering Passive Mode (62,210,16,42,107,23)
+227 Entering Passive Mode (62,210,16,42,103,60)
 STOR WEText_d0120a9e.OESkin
 150 Accepted data connection
-226-2290 files used (1%) - authorized: 150000 files
-226-141073 Kbytes used (0%) - authorized: 157286400 Kb
+226-2222 files used (1%) - authorized: 150000 files
+226-141195 Kbytes used (0%) - authorized: 157286400 Kb
 226-File successfully transferred
-226 0.035 seconds (measured here), 1.63 Mbytes per second
+226 0.060 seconds (measured here), 0.95 Mbytes per second
 CWD /www/Backup/Templates
 250 OK. Current directory is /www/Backup/Templates
 CWD /www/Backup
