@@ -1,0 +1,53 @@
+2/7/2019 8:16:19 AM | 
+2/7/2019 8:16:19 AM | 
+Message : La référence d'objet n'est pas définie à une instance d'un objet.
+2/7/2019 8:16:19 AM | 
+LastTrace : openElement.Forms.FrmLibrary.AsyncLoad_Tick(Object sender, EventArgs e)
+2/7/2019 8:16:19 AM | 
+Params : 
+2/7/2019 8:16:19 AM | 
+MethodeName : Void AsyncLoad_Tick(System.Object, System.EventArgs)
+2/7/2019 8:16:19 AM | 
+Stamp : 2/7/2019 8:16:19 AM
+2/7/2019 8:16:19 AM | 
+OSFullName : Microsoft Windows 10 Professionnel
+2/7/2019 8:16:19 AM | 
+AvailablePhysicalMemory : 6.11 Go 
+2/7/2019 8:16:19 AM | 
+TotalPhysicalMemory : 15.92 Go 
+2/7/2019 8:16:19 AM | 
+AvailableVirtualMemory : 2.61 Go 
+2/7/2019 8:16:19 AM | 
+TotalVirtualMemory : 4 Go 
+2/7/2019 8:16:19 AM | 
+WorkingSet : 505.58 Mo 
+2/7/2019 8:16:19 AM | 
+PagedMemorySize : 617.74 Mo 
+2/7/2019 8:16:19 AM | 
+TotalMemory : 96.87 Mo 
+2/7/2019 8:16:19 AM | 
+
+2/7/2019 8:16:19 AM | 
+ExTrace : 
+2/7/2019 8:16:19 AM | 
+à openElement.Forms.FrmLibrary.AsyncLoad_Tick(Object sender, EventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\FilesManager\FrmLibrary.vb:ligne 253
+2/7/2019 8:16:19 AM | 
+
+2/7/2019 8:16:19 AM | 
+OETrace : 
+2/7/2019 8:16:19 AM | 
+à openElement.Forms.FrmLibrary.AsyncLoad_Tick(Object sender, EventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\FilesManager\FrmLibrary.vb:ligne 266
+2/7/2019 8:16:19 AM | 
+à openElement.WebElement.Editors.Form.FrmSelectLink.ChooseFile() dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\WebElement\Editors\Form\FrmSelectLink.vb:ligne 1533
+2/7/2019 8:16:19 AM | 
+à openElement.WebElement.Editors.Form.FrmSelectLink.AffectSelectedLink(TreeListNode node) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\WebElement\Editors\Form\FrmSelectLink.vb:ligne 660
+2/7/2019 8:16:19 AM | 
+à openElement.WebElement.Editors.Form.FrmSelectLink.TreeList_FocusedNodeChanged(Object sender, FocusedNodeChangedEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\WebElement\Editors\Form\FrmSelectLink.vb:ligne 835
+2/7/2019 8:16:19 AM | 
+à openElement.Forms.RibbonCore.RPStyles.RPGLink.PMTextBBICreateLink_ItemClick(Object sender, ItemClickEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Styles\RPGLink.vb:ligne 142
+2/7/2019 8:16:19 AM | 
+à openElement.My.MyApplication.Main(String[] Args) dans :ligne 82
+2/7/2019 8:16:19 AM | 
+
+2/7/2019 8:16:19 AM | 
+------------------
